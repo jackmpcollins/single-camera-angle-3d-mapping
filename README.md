@@ -1,6 +1,6 @@
-# 3D Mapping of Objects from a single Camera Angle
+# 3D Mapping of Objects from a Single Camera Angle
 
-This project was proposed at the Stokes modelling workshop 2017 at the National University of Ireland Galway. The aim of this project was to create a method of gaining depth information about a scene using only a series of shallow-depth-of-field shots. The photographs used were taken at regular intervals by a camera moving along one dimension towards the scene. The full project proposal is included in this repo as [*problemStatement.pdf*](problemStatement.pdf). The final presentation of results is also included as [*presentation.pdf*](presentation.pdf).
+This project was proposed at the Stokes modelling workshop 2017 at the National University of Ireland Galway. The aim of this project was to create a method of gaining depth information about a scene using only a series of shallow-depth-of-field shots. The photographs used were taken at regular intervals by a camera moving along one dimension towards the scene, bringing different regions into focus. The full project proposal is included in this repo as [*problemStatement.pdf*](problemStatement.pdf). The final presentation of results is also included as [*presentation.pdf*](presentation.pdf).
 
 ## Getting Started
 
