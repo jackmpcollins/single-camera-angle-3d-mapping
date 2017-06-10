@@ -44,7 +44,7 @@ Included in this repo are demo files which can be used to see the results. On ru
 ![object meshing](meshing.png)
 
 ## Contributors
-* Luca Mansari
+* [Luca Manzari](https://github.com/luke-skywalker)
 * [Jack Collins](https://github.com/jackmpcollins)
 * [David Colson](https://github.com/DavidColson)
 * Cliona Donnelly
