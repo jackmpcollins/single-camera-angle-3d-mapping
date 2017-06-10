@@ -48,7 +48,7 @@ Included in this repo are demo files which can be used to see the results. On ru
 * [Jack Collins](https://github.com/jackmpcollins)
 * [David Colson](https://github.com/DavidColson)
 * Cliona Donnelly
-* Sam Geraghty
+* [Sam Geraghty](https://github.com/diphazi)
 * Treacy Hanley
 * Sam Kamperis
 * Faik Mayah
