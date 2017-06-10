@@ -12,9 +12,11 @@ function mapping()
 
     % choose right directory of images
     path = uigetdir;
-    % and texture file (image with everything in focus)
-    [txtname, txtpath] = uigetfile;
-    texture_image = B = rot90(imread( fullfile(txtpath, txtname) ), -1);
+    if do_textured_plot
+        % and texture file (image with everything in focus)
+        [txtname, txtpath] = uigetfile;
+        texture_image = B = rot90(imread( fullfile(txtpath, txtname) ), -1);
+    end
     
     imshow(texture_image)
 
